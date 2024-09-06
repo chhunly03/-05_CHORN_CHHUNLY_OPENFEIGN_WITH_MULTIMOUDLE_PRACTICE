@@ -1,0 +1,5 @@
+rootProject.name = 'Homework_Feign_Client_05'
+include 'customer-service'
+include 'product-service'
+include 'order-service'
+
